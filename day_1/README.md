@@ -1,14 +1,14 @@
 # Day 1: Calorie Counting
 
-**Prompt:**
+### Prompt:
 
 Hi, can you help me with a programming puzzle? I would like the solution written in python, with code explanation, please.
 
-**Answer:**
+### Answer:
 
 Of course, I'd be happy to help you with a programming puzzle! What is the puzzle you would like me to help you with? Can you please provide more details and the specific requirements for the solution? I'll do my best to provide a solution in Python with code explanation. Keep in mind that I am a language model trained by OpenAI and do not have access to the internet, so I may not be able to provide a solution for every puzzle.
 
-**Prompt:**
+### Prompt:
 
 Right, here we go.
 
@@ -53,7 +53,7 @@ In case the Elves get hungry and need extra snacks, they need to know which Elf 
 
 Find the Elf carrying the most Calories. How many total Calories is that Elf carrying?
 
-**Answer:**
+### Answer:
 
 Here is a possible solution to this problem, written in Python:
 
@@ -110,7 +110,7 @@ print(max(elf_calories.values()))
 
 This should print 24000, which is the correct answer for the example input provided in the problem description.
 
-**Prompt:**
+### Prompt:
 
 Awesome, thanks! I have a follow-up.
 
@@ -189,10 +189,10 @@ print(top_3_calories)
 
 This should print 45000, which is the correct answer for the example input provided in the problem description.
 
-**Prompt:**
+### Prompt:
 
 Well done! Thank you.
 
-**Answer:**
+### Answer:
 
 You're welcome! I'm glad I could help. Let me know if you have any other questions or need help with anything else.
