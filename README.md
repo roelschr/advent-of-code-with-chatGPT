@@ -1,6 +1,10 @@
 # advent-of-code-with-chatGPT
 This repo registers my saga to solve advent of code 2022 puzzles with chatGPT.
 
+Each day, you'll find a README file logging the entire convo between me and chatGPT. Final (working) solutions will be on python files. Our goal is to get as far as possible. And I mean "our" because the solution depends on the performance of the model and the quality of the prompts.
+
+Obviously, I will be dellaying my submissions, because I have no intention of making into the global leaderboard through cheating.
+
 ## Brain dump
 
 This section logs some of my thoughts during the convos with chatGPT.
