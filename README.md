@@ -13,7 +13,7 @@ This section logs some of my thoughts during the convos with chatGPT.
 
 The puzzle should be easily solved by a begginer. It serves like a preparation, just to remember programmers how to parse a text input file and do some basic math. 
 
-Only part two requires the use of a data structure (list). But chatGPT chose a verbose and complex solution even for part one. Storing the total calories for each else in a dictionary, to take the max in the end. 
+Only part two requires the use of a data structure (list). But chatGPT chose a verbose and complex solution even for part one. Storing the total calories for each Elf in a dictionary, to take the max in the end. 
 
 Anyway, I'm interested in getting the correct answer, so this blew my mind. THIS IS AWESOME!
 
@@ -30,5 +30,13 @@ It seems that the first part of the puzzle was biasing the bot more than it shou
 Anyway, I cannot believe how good this AI is, imagine when fine tunned for "pair-programming".
 
 **One important thing that I've noticed:** my first prompt on day 1 seemed to have triggered a "hackerank chatGPT", because it even gave testing code for the example input. This did not happen on day 2. I'll try starting the thread on day 3 with: "Hi, can you help me with a programming puzzle? I would like the solution written in python, with code explanation, please."
+
+### Day 3
+
+Amazing. It took me only a few minutes to get both solutions from chatGPT. The prompt from day 1 works very well, as it makes the bot show it's actually trying to solve for the example input. 
+
+Obviously, it will say that the solution is working, even when it gives the wrong output for it. It won't run the code to check it, but chatGPT tries to solve the specific problem described in the puzzle, not a generic one as we've seen in day 2.
+
+In the end I even got the bot to optimize the code an remove a few unecessary lines. It could improve it even more, but that's for the next days :)
 
 cont.
