@@ -55,4 +55,20 @@ This time, the code was super concise and "advanced", making use of the `re` pac
 
 I won't get tired of saying how this technology is ground breaking!
 
+### Day 5
+
+[Check full convo here](day_5/README.md)
+
+OMG! This thing is unbelievable, and I'm an ML Engineer XD
+
+It took some retries to get the bot started. I had also to login again in the middle of the conversation, losing my progress. But the second time was just unbelievable.
+
+My first surprise was how easily chatGPT extracted the stacks and rearrangement instructions from the example, hardcoding them as a test input for the program. This time I also asked chatGPT to fix runtime errors. Why StackOverflow? 
+
+But the most impressive thing happened when I asked why the output was different from the expected output. Just by saying: "Instead of CMZ, the program outputs MCD. Can you find the issue?", chatGPT was able to identify that the list of crates removed from one stack have to be reversed before adding them to the other stack. THIS IS F*CKING AMAZING!!!
+
+But the hard part of the puzzle was to make chatGPT write the code that parses the input correctly. The bot could not make sense of the stacks in the vertical form and I had to work hard giving it ways of translating the drawing of stacks of crates into the list of lists that it has used in the first solution. Fortunatelly, a rotating logic does the trick.
+
+In the end I had to actively ask it to remove the use of strip, after telling it multiple times that whitespaces were an important part of the input.
+
 cont.
