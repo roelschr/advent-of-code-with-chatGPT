@@ -71,4 +71,10 @@ But the hard part of the puzzle was to make chatGPT write the code that parses t
 
 In the end I had to actively ask it to remove the use of strip, after telling it multiple times that whitespaces were an important part of the input.
 
+### Day 6
+
+[Check full convo here](day_6/README.md)
+
+Really no comments. This puzzle was EZ. Input puzzle > get solution.
+
 cont.
